@@ -1,7 +1,10 @@
 # steamdeckmappings
+
+## atari
+
 <details><summary>atari2600</summary>
 
-## hotkeys
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
@@ -18,14 +21,14 @@
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
-## buttons
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
 
 <details><summary>atarilynx</summary>
 
-## hotkeys
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
@@ -42,14 +45,16 @@
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
-## buttons
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
 
+## nintendo
+
 <details><summary>n64</summary>
 
-## hotkeys
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
@@ -66,14 +71,14 @@
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
-## buttons
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
 
 <details><summary>nds</summary>
 
-## hotkeys
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
@@ -90,14 +95,14 @@
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
-## buttons
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
 
 <details><summary>gbc</summary>
 
-## hotkeys
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
@@ -114,14 +119,14 @@
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
-## buttons
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
 
 <details><summary>gba</summary>
 
-## hotkeys
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
@@ -138,14 +143,14 @@
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
-## buttons
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
 
 <details><summary>nes</summary>
 
-## hotkeys
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
@@ -162,158 +167,14 @@
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
-## buttons
-| action  | steamdeck |
-| ------------- | ------------- |
-</details>
-
-<details><summary>sega32x</summary>
-
-## hotkeys
-
-| action  | steamdeck |
-| ------------- | ------------- |
-| Menu  | L3 + R3  |
-| Exit  | Select + Start  |
-| Pause/Unpause | Select + A |
-| Fast Forward | Select + R2 |
-| Rewind | Select + L1 |
-| Save State | Select + R1 |
-| Load State | Select + L1 |
-| Next Save Slot | Select + DPAD Right |
-| Previous Save Slot | Select + DPAD Left |
-| Toggle Runahead | Select + DPad Up |
-| Toggle FPS Display | Select + X |
-| Screenshot | Select + B |
-
-## buttons
-| action  | steamdeck |
-| ------------- | ------------- |
-</details>
-
-<details><summary>dreamcast</summary>
-
-## hotkeys
-
-| action  | steamdeck |
-| ------------- | ------------- |
-| Menu  | L3 + R3  |
-| Exit  | Select + Start  |
-| Pause/Unpause | Select + A |
-| Fast Forward | Select + R2 |
-| Rewind | Select + L1 |
-| Save State | Select + R1 |
-| Load State | Select + L1 |
-| Next Save Slot | Select + DPAD Right |
-| Previous Save Slot | Select + DPAD Left |
-| Toggle Runahead | Select + DPad Up |
-| Toggle FPS Display | Select + X |
-| Screenshot | Select + B |
-
-## buttons
-| action  | steamdeck |
-| ------------- | ------------- |
-</details>
-
-<details><summary>gamegear</summary>
-
-## hotkeys
-
-| action  | steamdeck |
-| ------------- | ------------- |
-| Menu  | L3 + R3  |
-| Exit  | Select + Start  |
-| Pause/Unpause | Select + A |
-| Fast Forward | Select + R2 |
-| Rewind | Select + L1 |
-| Save State | Select + R1 |
-| Load State | Select + L1 |
-| Next Save Slot | Select + DPAD Right |
-| Previous Save Slot | Select + DPAD Left |
-| Toggle Runahead | Select + DPad Up |
-| Toggle FPS Display | Select + X |
-| Screenshot | Select + B |
-
-## buttons
-| action  | steamdeck |
-| ------------- | ------------- |
-</details>
-
-<details><summary>genesis</summary>
-
-## hotkeys
-
-| action  | steamdeck |
-| ------------- | ------------- |
-| Menu  | L3 + R3  |
-| Exit  | Select + Start  |
-| Pause/Unpause | Select + A |
-| Fast Forward | Select + R2 |
-| Rewind | Select + L1 |
-| Save State | Select + R1 |
-| Load State | Select + L1 |
-| Next Save Slot | Select + DPAD Right |
-| Previous Save Slot | Select + DPAD Left |
-| Toggle Runahead | Select + DPad Up |
-| Toggle FPS Display | Select + X |
-| Screenshot | Select + B |
-
-## buttons
-| action  | steamdeck |
-| ------------- | ------------- |
-</details>
-
-<details><summary>saturn</summary>
-
-## hotkeys
-
-| action  | steamdeck |
-| ------------- | ------------- |
-| Menu  | L3 + R3  |
-| Exit  | Select + Start  |
-| Pause/Unpause | Select + A |
-| Fast Forward | Select + R2 |
-| Rewind | Select + L1 |
-| Save State | Select + R1 |
-| Load State | Select + L1 |
-| Next Save Slot | Select + DPAD Right |
-| Previous Save Slot | Select + DPAD Left |
-| Toggle Runahead | Select + DPad Up |
-| Toggle FPS Display | Select + X |
-| Screenshot | Select + B |
-
-## buttons
-| action  | steamdeck |
-| ------------- | ------------- |
-</details>
-
-<details><summary>psp</summary>
-
-## hotkeys
-
-| action  | steamdeck |
-| ------------- | ------------- |
-| Menu  | L3 + R3  |
-| Exit  | Select + Start  |
-| Pause/Unpause | Select + A |
-| Fast Forward | Select + R2 |
-| Rewind | Select + L1 |
-| Save State | Select + R1 |
-| Load State | Select + L1 |
-| Next Save Slot | Select + DPAD Right |
-| Previous Save Slot | Select + DPAD Left |
-| Toggle Runahead | Select + DPad Up |
-| Toggle FPS Display | Select + X |
-| Screenshot | Select + B |
-
-## buttons
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
 
 <details><summary>snes</summary>
 
-## hotkeys
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
@@ -330,7 +191,7 @@
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
-## buttons
+###### buttons
 | action  | wii |
 | ------------- | ------------- |
 | Menu | N/A |
@@ -357,7 +218,7 @@
 
 <details><summary>console</summary>
 
-## hotkeys
+###### hotkeys
 
 | action  | gamecube |
 | ------------- | ------------- |
@@ -382,7 +243,7 @@
 | Decrease Internal Resolution | Start + DPAD Down |
 | Reset | A + B + X + Y + L1 + R1 |
 
-## buttons
+###### buttons
 | action  | primehack |
 | ------------- | ------------- |
 | Menu | N/A |
@@ -401,7 +262,7 @@
 
 <details><summary>3ds</summary>
 
-## hotkeys
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
@@ -418,32 +279,35 @@
 | Swap Screens | Left Trackpad Touch Menu |
 | Change Screen Layout | Left Trackpad Touch Menu |
 
-## buttons
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
 
-<details><summary>arcade</summary>
+<details><summary>switch</summary>
 
-## hotkeys
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
-| Coin for player | Select |
-| Start for player | Start |
+| Menu | Select + R3 |
+| Exit |  |
+| Pause/Unpause | Select + A |
 | Fast Forward | Select + R2 |
-| Load State | Select + L1 |
-| Save State | Select + R1 |
-| Exit Emulator | Select + Start |
+| Load State |  |
+| Save State |  |
+| Full Screen |  |
+| Swap Screens |  |
+| Toggle Layout |  |
 
-## buttons
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
 
 <details><summary>wiiu</summary>
 
-## hotkeys
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
@@ -452,14 +316,162 @@
 | Exit | Select + Start |
 | Blow Mic | R3 |
 
-## buttons
+###### buttons
+| action  | steamdeck |
+| ------------- | ------------- |
+</details>
+
+## sega
+
+<details><summary>sega32x</summary>
+
+###### hotkeys
+
+| action  | steamdeck |
+| ------------- | ------------- |
+| Menu  | L3 + R3  |
+| Exit  | Select + Start  |
+| Pause/Unpause | Select + A |
+| Fast Forward | Select + R2 |
+| Rewind | Select + L1 |
+| Save State | Select + R1 |
+| Load State | Select + L1 |
+| Next Save Slot | Select + DPAD Right |
+| Previous Save Slot | Select + DPAD Left |
+| Toggle Runahead | Select + DPad Up |
+| Toggle FPS Display | Select + X |
+| Screenshot | Select + B |
+
+###### buttons
+| action  | steamdeck |
+| ------------- | ------------- |
+</details>
+
+<details><summary>dreamcast</summary>
+
+###### hotkeys
+
+| action  | steamdeck |
+| ------------- | ------------- |
+| Menu  | L3 + R3  |
+| Exit  | Select + Start  |
+| Pause/Unpause | Select + A |
+| Fast Forward | Select + R2 |
+| Rewind | Select + L1 |
+| Save State | Select + R1 |
+| Load State | Select + L1 |
+| Next Save Slot | Select + DPAD Right |
+| Previous Save Slot | Select + DPAD Left |
+| Toggle Runahead | Select + DPad Up |
+| Toggle FPS Display | Select + X |
+| Screenshot | Select + B |
+
+###### buttons
+| action  | steamdeck |
+| ------------- | ------------- |
+</details>
+
+<details><summary>gamegear</summary>
+
+###### hotkeys
+
+| action  | steamdeck |
+| ------------- | ------------- |
+| Menu  | L3 + R3  |
+| Exit  | Select + Start  |
+| Pause/Unpause | Select + A |
+| Fast Forward | Select + R2 |
+| Rewind | Select + L1 |
+| Save State | Select + R1 |
+| Load State | Select + L1 |
+| Next Save Slot | Select + DPAD Right |
+| Previous Save Slot | Select + DPAD Left |
+| Toggle Runahead | Select + DPad Up |
+| Toggle FPS Display | Select + X |
+| Screenshot | Select + B |
+
+###### buttons
+| action  | steamdeck |
+| ------------- | ------------- |
+</details>
+
+<details><summary>genesis</summary>
+
+###### hotkeys
+
+| action  | steamdeck |
+| ------------- | ------------- |
+| Menu  | L3 + R3  |
+| Exit  | Select + Start  |
+| Pause/Unpause | Select + A |
+| Fast Forward | Select + R2 |
+| Rewind | Select + L1 |
+| Save State | Select + R1 |
+| Load State | Select + L1 |
+| Next Save Slot | Select + DPAD Right |
+| Previous Save Slot | Select + DPAD Left |
+| Toggle Runahead | Select + DPad Up |
+| Toggle FPS Display | Select + X |
+| Screenshot | Select + B |
+
+###### buttons
+| action  | steamdeck |
+| ------------- | ------------- |
+</details>
+
+<details><summary>saturn</summary>
+
+###### hotkeys
+
+| action  | steamdeck |
+| ------------- | ------------- |
+| Menu  | L3 + R3  |
+| Exit  | Select + Start  |
+| Pause/Unpause | Select + A |
+| Fast Forward | Select + R2 |
+| Rewind | Select + L1 |
+| Save State | Select + R1 |
+| Load State | Select + L1 |
+| Next Save Slot | Select + DPAD Right |
+| Previous Save Slot | Select + DPAD Left |
+| Toggle Runahead | Select + DPad Up |
+| Toggle FPS Display | Select + X |
+| Screenshot | Select + B |
+
+###### buttons
+| action  | steamdeck |
+| ------------- | ------------- |
+</details>
+
+## sony
+
+<details><summary>psp</summary>
+
+###### hotkeys
+
+| action  | steamdeck |
+| ------------- | ------------- |
+| Menu  | L3 + R3  |
+| Exit  | Select + Start  |
+| Pause/Unpause | Select + A |
+| Fast Forward | Select + R2 |
+| Rewind | Select + L1 |
+| Save State | Select + R1 |
+| Load State | Select + L1 |
+| Next Save Slot | Select + DPAD Right |
+| Previous Save Slot | Select + DPAD Left |
+| Toggle Runahead | Select + DPad Up |
+| Toggle FPS Display | Select + X |
+| Screenshot | Select + B |
+
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
 
 <details><summary>psx</summary>
 
-## hotkeys
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
@@ -480,14 +492,14 @@
 | Toggle SoftwareRendering | Start + L3 |
 | Full Screen | Select + R3 |
 
-## buttons
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
 
 <details><summary>ps2</summary>
 
-## hotkeys
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
@@ -506,14 +518,14 @@
 | Cycle Aspect Ratio | Start + DPad Right |
 | Toggle Software Rendering | Start + DPad Left |
 
-## buttons
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
 
 <details><summary>ps3</summary>
 
-## hotkeys
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
@@ -527,41 +539,42 @@
 | Swap Screens |  |
 | Toggle Layout |  |
 
-## buttons
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
 
-<details><summary>switch</summary>
+##arcade
 
-## hotkeys
+<details><summary>arcade</summary>
+
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
-| Menu | Select + R3 |
-| Exit |  |
-| Pause/Unpause | Select + A |
+| Coin for player | Select |
+| Start for player | Start |
 | Fast Forward | Select + R2 |
-| Load State |  |
-| Save State |  |
-| Full Screen |  |
-| Swap Screens |  |
-| Toggle Layout |  |
+| Load State | Select + L1 |
+| Save State | Select + R1 |
+| Exit Emulator | Select + Start |
 
-## buttons
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
+
+## microsoft
 
 <details><summary>xbox</summary>
 
-## hotkeys
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
 | N/A | N/A |
 
-## buttons
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
