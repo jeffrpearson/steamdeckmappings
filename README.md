@@ -414,54 +414,6 @@
 
 ## sega
 
-<details><summary>sega32x</summary>
-
-###### hotkeys
-
-| action  | steamdeck |
-| ------------- | ------------- |
-| Menu  | L3 + R3  |
-| Exit  | Select + Start  |
-| Pause/Unpause | Select + A |
-| Fast Forward | Select + R2 |
-| Rewind | Select + L1 |
-| Save State | Select + R1 |
-| Load State | Select + L1 |
-| Next Save Slot | Select + D-Pad Right |
-| Previous Save Slot | Select + D-Pad Left |
-| Toggle Runahead | Select + D-Pad Up |
-| Toggle FPS Display | Select + X |
-| Screenshot | Select + B |
-
-###### buttons
-| action  | steamdeck |
-| ------------- | ------------- |
-</details>
-
-<details><summary>dreamcast</summary>
-
-###### hotkeys
-
-| action  | steamdeck |
-| ------------- | ------------- |
-| Menu  | L3 + R3  |
-| Exit  | Select + Start  |
-| Pause/Unpause | Select + A |
-| Fast Forward | Select + R2 |
-| Rewind | Select + L1 |
-| Save State | Select + R1 |
-| Load State | Select + L1 |
-| Next Save Slot | Select + D-Pad Right |
-| Previous Save Slot | Select + D-Pad Left |
-| Toggle Runahead | Select + D-Pad Up |
-| Toggle FPS Display | Select + X |
-| Screenshot | Select + B |
-
-###### buttons
-| action  | steamdeck |
-| ------------- | ------------- |
-</details>
-
 <details><summary>gamegear</summary>
 
 ###### hotkeys
@@ -510,6 +462,30 @@
 | ------------- | ------------- |
 </details>
 
+<details><summary>sega32x</summary>
+
+###### hotkeys
+
+| action  | steamdeck |
+| ------------- | ------------- |
+| Menu  | L3 + R3  |
+| Exit  | Select + Start  |
+| Pause/Unpause | Select + A |
+| Fast Forward | Select + R2 |
+| Rewind | Select + L1 |
+| Save State | Select + R1 |
+| Load State | Select + L1 |
+| Next Save Slot | Select + D-Pad Right |
+| Previous Save Slot | Select + D-Pad Left |
+| Toggle Runahead | Select + D-Pad Up |
+| Toggle FPS Display | Select + X |
+| Screenshot | Select + B |
+
+###### buttons
+| action  | steamdeck |
+| ------------- | ------------- |
+</details>
+
 <details><summary>saturn</summary>
 
 ###### hotkeys
@@ -534,9 +510,7 @@
 | ------------- | ------------- |
 </details>
 
-## sony
-
-<details><summary>psp</summary>
+<details><summary>dreamcast</summary>
 
 ###### hotkeys
 
@@ -559,6 +533,8 @@
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
+
+## sony
 
 <details><summary>psx</summary>
 
@@ -629,6 +605,30 @@
 | Full Screen |  |
 | Swap Screens |  |
 | Toggle Layout |  |
+
+###### buttons
+| action  | steamdeck |
+| ------------- | ------------- |
+</details>
+
+<details><summary>psp</summary>
+
+###### hotkeys
+
+| action  | steamdeck |
+| ------------- | ------------- |
+| Menu  | L3 + R3  |
+| Exit  | Select + Start  |
+| Pause/Unpause | Select + A |
+| Fast Forward | Select + R2 |
+| Rewind | Select + L1 |
+| Save State | Select + R1 |
+| Load State | Select + L1 |
+| Next Save Slot | Select + D-Pad Right |
+| Previous Save Slot | Select + D-Pad Left |
+| Toggle Runahead | Select + D-Pad Up |
+| Toggle FPS Display | Select + X |
+| Screenshot | Select + B |
 
 ###### buttons
 | action  | steamdeck |
@@ -741,7 +741,7 @@
 
 ## commodore
 
-<details><summary>amiga</summary>
+<details><summary>c64</summary>
 
 ###### hotkeys
 
@@ -754,7 +754,7 @@
 | ------------- | ------------- |
 </details>
 
-<details><summary>c64</summary>
+<details><summary>amiga</summary>
 
 ###### hotkeys
 
