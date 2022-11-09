@@ -199,28 +199,8 @@
 | Screenshot | Select + B |
 
 ###### buttons
-| action  | wii |
+| action  | steamdeck |
 | ------------- | ------------- |
-| Menu | N/A |
-| Exit | Select + Start |
-| Pause/Unpause | Select + A |
-| Fast Forward (Hold) | Select + R2 |
-| Save State | Select + R1 |
-| Load State | Select + L1 |
-| Next Save Slot | Start + R1 |
-| Previous Save Slot | Start + L1 |
-| Shake Wiimote | L2 |
-| Shake Nunchuck | R2 |
-| Sideways Toggle | Select + R3 |
-| Attach Wiimote | Select + Left Stick Down |
-| Next Input Profile Select | Select + Left Stick Right |
-| Previous Input Profile Select | Select + Left Stick Left |
-| Next Game Profile Select | Select + Left Stick Up |
-| Previous Game Profile Select | Select + Left Stick Down |
-| Toggle Aspect Ratio | Start + D-Pad Right |
-| Increase Internal Resolution | Start + D-Pad Up |
-| Decrease Internal Resolution | Start + D-Pad Down |
-| Reset | A + B + X + Y + L1 + R1 |
 </details>
 
 <details><summary>wii</summary>
