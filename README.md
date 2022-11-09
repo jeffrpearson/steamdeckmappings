@@ -32,6 +32,45 @@
 | ------------- | ------------- |
 </details>
 
+<details><summary>atari5200</summary>
+
+###### hotkeys
+
+| action  | steamdeck |
+| ------------- | ------------- |
+| N/A | N/A |
+
+###### buttons
+| action  | steamdeck |
+| ------------- | ------------- |
+</details>
+
+<details><summary>atari7800</summary>
+
+###### hotkeys
+
+| action  | steamdeck |
+| ------------- | ------------- |
+| N/A | N/A |
+
+###### buttons
+| action  | steamdeck |
+| ------------- | ------------- |
+</details>
+
+<details><summary>atarijaguar</summary>
+
+###### hotkeys
+
+| action  | steamdeck |
+| ------------- | ------------- |
+| N/A | N/A |
+
+###### buttons
+| action  | steamdeck |
+| ------------- | ------------- |
+</details>
+
 <details><summary>atarilynx</summary>
 
 ###### hotkeys
@@ -50,6 +89,19 @@
 | Toggle Runahead | Select + D-Pad Up |
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
+
+###### buttons
+| action  | steamdeck |
+| ------------- | ------------- |
+</details>
+
+<details><summary>atarist</summary>
+
+###### hotkeys
+
+| action  | steamdeck |
+| ------------- | ------------- |
+| N/A | N/A |
 
 ###### buttons
 | action  | steamdeck |
@@ -583,6 +635,21 @@
 | ------------- | ------------- |
 </details>
 
+## microsoft
+
+<details><summary>psvita</summary>
+
+###### hotkeys
+
+| action  | steamdeck |
+| ------------- | ------------- |
+| N/A | N/A |
+
+###### buttons
+| action  | steamdeck |
+| ------------- | ------------- |
+</details>
+
 ## arcade
 
 <details><summary>arcade</summary>
@@ -606,6 +673,105 @@
 ## microsoft
 
 <details><summary>xbox</summary>
+
+###### hotkeys
+
+| action  | steamdeck |
+| ------------- | ------------- |
+| N/A | N/A |
+
+###### buttons
+| action  | steamdeck |
+| ------------- | ------------- |
+</details>
+
+## snk
+
+<details><summary>neogeocd</summary>
+
+###### hotkeys
+
+| action  | steamdeck |
+| ------------- | ------------- |
+| N/A | N/A |
+
+###### buttons
+| action  | steamdeck |
+| ------------- | ------------- |
+</details>
+
+<details><summary>ngpc</summary>
+
+###### hotkeys
+
+| action  | steamdeck |
+| ------------- | ------------- |
+| N/A | N/A |
+
+###### buttons
+| action  | steamdeck |
+| ------------- | ------------- |
+</details>
+
+## nec
+
+<details><summary>pcfx</summary>
+
+###### hotkeys
+
+| action  | steamdeck |
+| ------------- | ------------- |
+| N/A | N/A |
+
+###### buttons
+| action  | steamdeck |
+| ------------- | ------------- |
+</details>
+
+<details><summary>tg16</summary>
+
+###### hotkeys
+
+| action  | steamdeck |
+| ------------- | ------------- |
+| N/A | N/A |
+
+###### buttons
+| action  | steamdeck |
+| ------------- | ------------- |
+</details>
+
+## commodore
+
+<details><summary>amiga</summary>
+
+###### hotkeys
+
+| action  | steamdeck |
+| ------------- | ------------- |
+| N/A | N/A |
+
+###### buttons
+| action  | steamdeck |
+| ------------- | ------------- |
+</details>
+
+<details><summary>c64</summary>
+
+###### hotkeys
+
+| action  | steamdeck |
+| ------------- | ------------- |
+| N/A | N/A |
+
+###### buttons
+| action  | steamdeck |
+| ------------- | ------------- |
+</details>
+
+## dos
+
+<details><summary>dos</summary>
 
 ###### hotkeys
 
