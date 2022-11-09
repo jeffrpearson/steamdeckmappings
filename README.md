@@ -94,6 +94,7 @@
 | Toggle Runahead | Select + D-Pad Up |
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
+| Swap Screens (NDS) | R2 |
 
 ###### buttons
 | action  | steamdeck |
