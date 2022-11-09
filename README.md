@@ -111,6 +111,8 @@
 ## nintendo
 
 <details><summary>nes</summary>
+  
+![nesfront](https://github.com/jeffrpearson/steamdeckmappings/blob/main/nesfront.png)
 
 ###### hotkeys
 
