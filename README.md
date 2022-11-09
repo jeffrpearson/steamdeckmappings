@@ -10,7 +10,7 @@
 
 <details><summary>atari2600</summary>
 
-**hotkeys**
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
@@ -27,14 +27,14 @@
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
-**buttons**
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
 
 <details><summary>atarilynx</summary>
 
-**hotkeys**
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
@@ -51,7 +51,7 @@
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
-**buttons**
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
@@ -60,7 +60,7 @@
 
 <details><summary>n64</summary>
 
-**hotkeys**
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
@@ -77,14 +77,14 @@
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
-**buttons**
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
 
 <details><summary>nds</summary>
 
-**hotkeys**
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
@@ -102,14 +102,14 @@
 | Screenshot | Select + B |
 | Swap Screens (NDS) | R2 |
 
-**buttons**
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
 
 <details><summary>gbc</summary>
 
-**hotkeys**
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
@@ -126,14 +126,14 @@
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
-**buttons**
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
 
 <details><summary>gba</summary>
 
-**hotkeys**
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
@@ -150,14 +150,14 @@
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
-**buttons**
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
 
 <details><summary>nes</summary>
 
-**hotkeys**
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
@@ -174,14 +174,14 @@
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
-**buttons**
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
 
 <details><summary>snes</summary>
 
-**hotkeys**
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
@@ -198,7 +198,7 @@
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
-**buttons**
+###### buttons
 | action  | wii |
 | ------------- | ------------- |
 | Menu | N/A |
@@ -225,7 +225,7 @@
 
 <details><summary>gamecube</summary>
 
-**hotkeys**
+###### hotkeys
 
 | action  | gamecube |
 | ------------- | ------------- |
@@ -250,7 +250,7 @@
 | Decrease Internal Resolution | Start + D-Pad Down |
 | Reset | A + B + X + Y + L1 + R1 |
 
-**buttons**
+###### buttons
 | action  | primehack |
 | ------------- | ------------- |
 | Menu | N/A |
@@ -269,7 +269,7 @@
 
 <details><summary>3ds</summary>
 
-**hotkeys**
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
@@ -286,14 +286,14 @@
 | Swap Screens | Left Trackpad Touch Menu |
 | Change Screen Layout | Left Trackpad Touch Menu |
 
-**buttons**
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
 
 <details><summary>switch</summary>
 
-**hotkeys**
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
@@ -307,14 +307,14 @@
 | Swap Screens |  |
 | Toggle Layout |  |
 
-**buttons**
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
 
 <details><summary>wiiu</summary>
 
-**hotkeys**
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
@@ -323,7 +323,7 @@
 | Exit | Select + Start |
 | Blow Mic | R3 |
 
-**buttons**
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
@@ -332,7 +332,7 @@
 
 <details><summary>sega32x</summary>
 
-**hotkeys**
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
@@ -349,14 +349,14 @@
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
-**buttons**
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
 
 <details><summary>dreamcast</summary>
 
-**hotkeys**
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
@@ -373,14 +373,14 @@
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
-**buttons**
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
 
 <details><summary>gamegear</summary>
 
-**hotkeys**
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
@@ -397,14 +397,14 @@
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
-**buttons**
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
 
 <details><summary>genesis</summary>
 
-**hotkeys**
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
@@ -421,14 +421,14 @@
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
-**buttons**
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
 
 <details><summary>saturn</summary>
 
-**hotkeys**
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
@@ -445,7 +445,7 @@
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
-**buttons**
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
@@ -454,7 +454,7 @@
 
 <details><summary>psp</summary>
 
-**hotkeys**
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
@@ -471,14 +471,14 @@
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
-**buttons**
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
 
 <details><summary>psx</summary>
 
-**hotkeys**
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
@@ -499,14 +499,14 @@
 | Toggle SoftwareRendering | Start + L3 |
 | Full Screen | Select + R3 |
 
-**buttons**
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
 
 <details><summary>ps2</summary>
 
-**hotkeys**
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
@@ -525,14 +525,14 @@
 | Cycle Aspect Ratio | Start + D-Pad Right |
 | Toggle Software Rendering | Start + D-Pad Left |
 
-**buttons**
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
 
 <details><summary>ps3</summary>
 
-**hotkeys**
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
@@ -546,7 +546,7 @@
 | Swap Screens |  |
 | Toggle Layout |  |
 
-**buttons**
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
@@ -555,7 +555,7 @@
 
 <details><summary>arcade</summary>
 
-**hotkeys**
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
@@ -566,7 +566,7 @@
 | Save State | Select + R1 |
 | Exit Emulator | Select + Start |
 
-**buttons**
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
@@ -575,13 +575,13 @@
 
 <details><summary>xbox</summary>
 
-**hotkeys**
+###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
 | N/A | N/A |
 
-**buttons**
+###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
