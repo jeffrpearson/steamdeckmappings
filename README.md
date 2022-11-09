@@ -1,5 +1,11 @@
 # steamdeckmappings
 
+**Front:**
+![front](https://user-images.githubusercontent.com/108900299/195712504-be9d0114-f376-47f9-b23c-d525d05e141b.png)
+
+**Back & Top:**
+![back](https://user-images.githubusercontent.com/108900299/195712399-79832195-ac3f-443d-8267-c5d67a9cbccf.png)
+
 ## atari
 
 <details><summary>atari2600</summary>
