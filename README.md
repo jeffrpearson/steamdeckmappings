@@ -15,9 +15,9 @@
 | Rewind | Select + L1 |
 | Save State | Select + R1 |
 | Load State | Select + L1 |
-| Next Save Slot | Select + DPAD Right |
-| Previous Save Slot | Select + DPAD Left |
-| Toggle Runahead | Select + DPad Up |
+| Next Save Slot | Select + D-Pad Right |
+| Previous Save Slot | Select + D-Pad Left |
+| Toggle Runahead | Select + D-Pad Up |
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
@@ -39,9 +39,9 @@
 | Rewind | Select + L1 |
 | Save State | Select + R1 |
 | Load State | Select + L1 |
-| Next Save Slot | Select + DPAD Right |
-| Previous Save Slot | Select + DPAD Left |
-| Toggle Runahead | Select + DPad Up |
+| Next Save Slot | Select + D-Pad Right |
+| Previous Save Slot | Select + D-Pad Left |
+| Toggle Runahead | Select + D-Pad Up |
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
@@ -65,9 +65,9 @@
 | Rewind | Select + L1 |
 | Save State | Select + R1 |
 | Load State | Select + L1 |
-| Next Save Slot | Select + DPAD Right |
-| Previous Save Slot | Select + DPAD Left |
-| Toggle Runahead | Select + DPad Up |
+| Next Save Slot | Select + D-Pad Right |
+| Previous Save Slot | Select + D-Pad Left |
+| Toggle Runahead | Select + D-Pad Up |
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
@@ -89,9 +89,9 @@
 | Rewind | Select + L1 |
 | Save State | Select + R1 |
 | Load State | Select + L1 |
-| Next Save Slot | Select + DPAD Right |
-| Previous Save Slot | Select + DPAD Left |
-| Toggle Runahead | Select + DPad Up |
+| Next Save Slot | Select + D-Pad Right |
+| Previous Save Slot | Select + D-Pad Left |
+| Toggle Runahead | Select + D-Pad Up |
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
@@ -113,9 +113,9 @@
 | Rewind | Select + L1 |
 | Save State | Select + R1 |
 | Load State | Select + L1 |
-| Next Save Slot | Select + DPAD Right |
-| Previous Save Slot | Select + DPAD Left |
-| Toggle Runahead | Select + DPad Up |
+| Next Save Slot | Select + D-Pad Right |
+| Previous Save Slot | Select + D-Pad Left |
+| Toggle Runahead | Select + D-Pad Up |
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
@@ -137,9 +137,9 @@
 | Rewind | Select + L1 |
 | Save State | Select + R1 |
 | Load State | Select + L1 |
-| Next Save Slot | Select + DPAD Right |
-| Previous Save Slot | Select + DPAD Left |
-| Toggle Runahead | Select + DPad Up |
+| Next Save Slot | Select + D-Pad Right |
+| Previous Save Slot | Select + D-Pad Left |
+| Toggle Runahead | Select + D-Pad Up |
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
@@ -161,9 +161,9 @@
 | Rewind | Select + L1 |
 | Save State | Select + R1 |
 | Load State | Select + L1 |
-| Next Save Slot | Select + DPAD Right |
-| Previous Save Slot | Select + DPAD Left |
-| Toggle Runahead | Select + DPad Up |
+| Next Save Slot | Select + D-Pad Right |
+| Previous Save Slot | Select + D-Pad Left |
+| Toggle Runahead | Select + D-Pad Up |
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
@@ -185,9 +185,9 @@
 | Rewind | Select + L1 |
 | Save State | Select + R1 |
 | Load State | Select + L1 |
-| Next Save Slot | Select + DPAD Right |
-| Previous Save Slot | Select + DPAD Left |
-| Toggle Runahead | Select + DPad Up |
+| Next Save Slot | Select + D-Pad Right |
+| Previous Save Slot | Select + D-Pad Left |
+| Toggle Runahead | Select + D-Pad Up |
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
@@ -210,9 +210,9 @@
 | Previous Input Profile Select | Select + Left Stick Left |
 | Next Game Profile Select | Select + Left Stick Up |
 | Previous Game Profile Select | Select + Left Stick Down |
-| Toggle Aspect Ratio | Start + DPAD Right |
-| Increase Internal Resolution | Start + DPAD Up |
-| Decrease Internal Resolution | Start + DPAD Down |
+| Toggle Aspect Ratio | Start + D-Pad Right |
+| Increase Internal Resolution | Start + D-Pad Up |
+| Decrease Internal Resolution | Start + D-Pad Down |
 | Reset | A + B + X + Y + L1 + R1 |
 </details>
 
@@ -238,9 +238,9 @@
 | Previous Input Profile Select | Select + Left Stick Left |
 | Next Game Profile Select | Select + Left Stick Up |
 | Previous Game Profile Select | Select + Left Stick Down |
-| Toggle Aspect Ratio | Start + DPAD Right |
-| Increase Internal Resolution | Start + DPAD Up |
-| Decrease Internal Resolution | Start + DPAD Down |
+| Toggle Aspect Ratio | Start + D-Pad Right |
+| Increase Internal Resolution | Start + D-Pad Up |
+| Decrease Internal Resolution | Start + D-Pad Down |
 | Reset | A + B + X + Y + L1 + R1 |
 
 ###### buttons
@@ -254,9 +254,9 @@
 | Load State | Select + L1 |
 | Next Save Slot | Start + R1 |
 | Previous Save Slot | Start + L1 |
-| Toggle Aspect Ratio | Start + DPAD Right |
-| Increase IR | Start + DPAD Up |
-| Decrease IR | Start + DPAD Down |
+| Toggle Aspect Ratio | Start + D-Pad Right |
+| Increase IR | Start + D-Pad Up |
+| Decrease IR | Start + D-Pad Down |
 | Graphics Toggle | Start + L3 |
 </details>
 
@@ -336,9 +336,9 @@
 | Rewind | Select + L1 |
 | Save State | Select + R1 |
 | Load State | Select + L1 |
-| Next Save Slot | Select + DPAD Right |
-| Previous Save Slot | Select + DPAD Left |
-| Toggle Runahead | Select + DPad Up |
+| Next Save Slot | Select + D-Pad Right |
+| Previous Save Slot | Select + D-Pad Left |
+| Toggle Runahead | Select + D-Pad Up |
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
@@ -360,9 +360,9 @@
 | Rewind | Select + L1 |
 | Save State | Select + R1 |
 | Load State | Select + L1 |
-| Next Save Slot | Select + DPAD Right |
-| Previous Save Slot | Select + DPAD Left |
-| Toggle Runahead | Select + DPad Up |
+| Next Save Slot | Select + D-Pad Right |
+| Previous Save Slot | Select + D-Pad Left |
+| Toggle Runahead | Select + D-Pad Up |
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
@@ -384,9 +384,9 @@
 | Rewind | Select + L1 |
 | Save State | Select + R1 |
 | Load State | Select + L1 |
-| Next Save Slot | Select + DPAD Right |
-| Previous Save Slot | Select + DPAD Left |
-| Toggle Runahead | Select + DPad Up |
+| Next Save Slot | Select + D-Pad Right |
+| Previous Save Slot | Select + D-Pad Left |
+| Toggle Runahead | Select + D-Pad Up |
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
@@ -408,9 +408,9 @@
 | Rewind | Select + L1 |
 | Save State | Select + R1 |
 | Load State | Select + L1 |
-| Next Save Slot | Select + DPAD Right |
-| Previous Save Slot | Select + DPAD Left |
-| Toggle Runahead | Select + DPad Up |
+| Next Save Slot | Select + D-Pad Right |
+| Previous Save Slot | Select + D-Pad Left |
+| Toggle Runahead | Select + D-Pad Up |
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
@@ -432,9 +432,9 @@
 | Rewind | Select + L1 |
 | Save State | Select + R1 |
 | Load State | Select + L1 |
-| Next Save Slot | Select + DPAD Right |
-| Previous Save Slot | Select + DPAD Left |
-| Toggle Runahead | Select + DPad Up |
+| Next Save Slot | Select + D-Pad Right |
+| Previous Save Slot | Select + D-Pad Left |
+| Toggle Runahead | Select + D-Pad Up |
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
@@ -458,9 +458,9 @@
 | Rewind | Select + L1 |
 | Save State | Select + R1 |
 | Load State | Select + L1 |
-| Next Save Slot | Select + DPAD Right |
-| Previous Save Slot | Select + DPAD Left |
-| Toggle Runahead | Select + DPad Up |
+| Next Save Slot | Select + D-Pad Right |
+| Previous Save Slot | Select + D-Pad Left |
+| Toggle Runahead | Select + D-Pad Up |
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
 
@@ -485,10 +485,10 @@
 | Fast Forward (Toggle) | Left Trackpad Touch Menu |
 | Fast Forward (Hold) | Select + R2 |
 | Rewind | Select + L2 |
-| Increase Resolution Scale | Start + DPAD Up |
-| Decrease Resolution Scale | Start + DPAD Down |
-| Toggle Widescreen | Start + DPAD Right |
-| Toggle PGXP | Start + DPAD Left |
+| Increase Resolution Scale | Start + D-Pad Up |
+| Decrease Resolution Scale | Start + D-Pad Down |
+| Toggle Widescreen | Start + D-Pad Right |
+| Toggle PGXP | Start + D-Pad Left |
 | Toggle SoftwareRendering | Start + L3 |
 | Full Screen | Select + R3 |
 
@@ -513,10 +513,10 @@
 | Next Save Slot | Start + R1 |
 | Previous Save Slot | Start + L1 |
 | Full Screen | Select + R3 |
-| Increase Upscale Multiplier | Start + DPad Up |
-| Decrease Upscale Multiplier | Start + DPad Down |
-| Cycle Aspect Ratio | Start + DPad Right |
-| Toggle Software Rendering | Start + DPad Left |
+| Increase Upscale Multiplier | Start + D-Pad Up |
+| Decrease Upscale Multiplier | Start + D-Pad Down |
+| Cycle Aspect Ratio | Start + D-Pad Right |
+| Toggle Software Rendering | Start + D-Pad Left |
 
 ###### buttons
 | action  | steamdeck |
