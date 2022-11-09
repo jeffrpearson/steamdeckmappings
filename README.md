@@ -69,6 +69,24 @@
 ## buttons
 | action  | steamdeck |
 | ------------- | ------------- |
+  | A |  |
+| B |  |
+| Start |  |
+| Up C |  |
+| Down C |  |
+| Left C |  |
+| Right C |  |
+| D-Pad Up |  |
+| D-Pad Down |  |
+| D-Pad Left |  |
+| D-Pad Right |  |
+| L |  |
+| R |  |
+| Z |  |
+| Analog Stick Up |  |
+| Analog Stick Down |  |
+| Analog Stick Left |  |
+| Analog Stick Right |  |
 </details>
 
 <details><summary>nds</summary>
