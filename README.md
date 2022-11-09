@@ -110,103 +110,6 @@
 
 ## nintendo
 
-<details><summary>n64</summary>
-
-###### hotkeys
-
-| action  | steamdeck |
-| ------------- | ------------- |
-| Menu  | L3 + R3  |
-| Exit  | Select + Start  |
-| Pause/Unpause | Select + A |
-| Fast Forward | Select + R2 |
-| Rewind | Select + L1 |
-| Save State | Select + R1 |
-| Load State | Select + L1 |
-| Next Save Slot | Select + D-Pad Right |
-| Previous Save Slot | Select + D-Pad Left |
-| Toggle Runahead | Select + D-Pad Up |
-| Toggle FPS Display | Select + X |
-| Screenshot | Select + B |
-
-###### buttons
-| action  | steamdeck |
-| ------------- | ------------- |
-</details>
-
-<details><summary>nds</summary>
-
-###### hotkeys
-
-| action  | steamdeck |
-| ------------- | ------------- |
-| Menu  | L3 + R3  |
-| Exit  | Select + Start  |
-| Pause/Unpause | Select + A |
-| Fast Forward | Select + R2 |
-| Rewind | Select + L1 |
-| Save State | Select + R1 |
-| Load State | Select + L1 |
-| Next Save Slot | Select + D-Pad Right |
-| Previous Save Slot | Select + D-Pad Left |
-| Toggle Runahead | Select + D-Pad Up |
-| Toggle FPS Display | Select + X |
-| Screenshot | Select + B |
-| Swap Screens (NDS) | R2 |
-
-###### buttons
-| action  | steamdeck |
-| ------------- | ------------- |
-</details>
-
-<details><summary>gbc</summary>
-
-###### hotkeys
-
-| action  | steamdeck |
-| ------------- | ------------- |
-| Menu  | L3 + R3  |
-| Exit  | Select + Start  |
-| Pause/Unpause | Select + A |
-| Fast Forward | Select + R2 |
-| Rewind | Select + L1 |
-| Save State | Select + R1 |
-| Load State | Select + L1 |
-| Next Save Slot | Select + D-Pad Right |
-| Previous Save Slot | Select + D-Pad Left |
-| Toggle Runahead | Select + D-Pad Up |
-| Toggle FPS Display | Select + X |
-| Screenshot | Select + B |
-
-###### buttons
-| action  | steamdeck |
-| ------------- | ------------- |
-</details>
-
-<details><summary>gba</summary>
-
-###### hotkeys
-
-| action  | steamdeck |
-| ------------- | ------------- |
-| Menu  | L3 + R3  |
-| Exit  | Select + Start  |
-| Pause/Unpause | Select + A |
-| Fast Forward | Select + R2 |
-| Rewind | Select + L1 |
-| Save State | Select + R1 |
-| Load State | Select + L1 |
-| Next Save Slot | Select + D-Pad Right |
-| Previous Save Slot | Select + D-Pad Left |
-| Toggle Runahead | Select + D-Pad Up |
-| Toggle FPS Display | Select + X |
-| Screenshot | Select + B |
-
-###### buttons
-| action  | steamdeck |
-| ------------- | ------------- |
-</details>
-
 <details><summary>nes</summary>
 
 ###### hotkeys
@@ -255,7 +158,31 @@
 | ------------- | ------------- |
 </details>
 
-<details><summary>wii</summary>
+<details><summary>n64</summary>
+
+###### hotkeys
+
+| action  | steamdeck |
+| ------------- | ------------- |
+| Menu  | L3 + R3  |
+| Exit  | Select + Start  |
+| Pause/Unpause | Select + A |
+| Fast Forward | Select + R2 |
+| Rewind | Select + L1 |
+| Save State | Select + R1 |
+| Load State | Select + L1 |
+| Next Save Slot | Select + D-Pad Right |
+| Previous Save Slot | Select + D-Pad Left |
+| Toggle Runahead | Select + D-Pad Up |
+| Toggle FPS Display | Select + X |
+| Screenshot | Select + B |
+
+###### buttons
+| action  | steamdeck |
+| ------------- | ------------- |
+</details>
+
+<details><summary>gamecube</summary>
 
 ###### hotkeys
 
@@ -287,7 +214,7 @@
 | ------------- | ------------- |
 </details>
 
-<details><summary>gamecube</summary>
+<details><summary>wii</summary>
 
 ###### hotkeys
 
@@ -351,24 +278,16 @@
 | ------------- | ------------- |
 </details>
 
-<details><summary>3ds</summary>
+<details><summary>wiiu</summary>
 
 ###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
-| Full Screen Toggle | L4 |
-| Layout Toggle | L5 |
-| Swap Screens | R4 |
-| Quit | Long Press R5 |
-| Save State | Left Trackpad Touch Menu |
-| Load State | Left Trackpad Touch Menu |
-| Fast Forward | Left Trackpad Touch Menu |
-| Pause | Left Trackpad Touch Menu |
-| Exit | Double Tap Left Trackpad Touch Menu |
-| Full Screen | Left Trackpad Touch Menu |
-| Swap Screens | Left Trackpad Touch Menu |
-| Change Screen Layout | Left Trackpad Touch Menu |
+| Toggle Screens | R4 |
+| Swap Screens | R5 |
+| Exit | Select + Start |
+| Blow Mic | R3 |
 
 ###### buttons
 | action  | steamdeck |
@@ -396,16 +315,97 @@
 | ------------- | ------------- |
 </details>
 
-<details><summary>wiiu</summary>
+<details><summary>gbc</summary>
 
 ###### hotkeys
 
 | action  | steamdeck |
 | ------------- | ------------- |
-| Toggle Screens | R4 |
-| Swap Screens | R5 |
-| Exit | Select + Start |
-| Blow Mic | R3 |
+| Menu  | L3 + R3  |
+| Exit  | Select + Start  |
+| Pause/Unpause | Select + A |
+| Fast Forward | Select + R2 |
+| Rewind | Select + L1 |
+| Save State | Select + R1 |
+| Load State | Select + L1 |
+| Next Save Slot | Select + D-Pad Right |
+| Previous Save Slot | Select + D-Pad Left |
+| Toggle Runahead | Select + D-Pad Up |
+| Toggle FPS Display | Select + X |
+| Screenshot | Select + B |
+
+###### buttons
+| action  | steamdeck |
+| ------------- | ------------- |
+</details>
+
+<details><summary>gba</summary>
+
+###### hotkeys
+
+| action  | steamdeck |
+| ------------- | ------------- |
+| Menu  | L3 + R3  |
+| Exit  | Select + Start  |
+| Pause/Unpause | Select + A |
+| Fast Forward | Select + R2 |
+| Rewind | Select + L1 |
+| Save State | Select + R1 |
+| Load State | Select + L1 |
+| Next Save Slot | Select + D-Pad Right |
+| Previous Save Slot | Select + D-Pad Left |
+| Toggle Runahead | Select + D-Pad Up |
+| Toggle FPS Display | Select + X |
+| Screenshot | Select + B |
+
+###### buttons
+| action  | steamdeck |
+| ------------- | ------------- |
+</details>
+
+<details><summary>nds</summary>
+
+###### hotkeys
+
+| action  | steamdeck |
+| ------------- | ------------- |
+| Menu  | L3 + R3  |
+| Exit  | Select + Start  |
+| Pause/Unpause | Select + A |
+| Fast Forward | Select + R2 |
+| Rewind | Select + L1 |
+| Save State | Select + R1 |
+| Load State | Select + L1 |
+| Next Save Slot | Select + D-Pad Right |
+| Previous Save Slot | Select + D-Pad Left |
+| Toggle Runahead | Select + D-Pad Up |
+| Toggle FPS Display | Select + X |
+| Screenshot | Select + B |
+| Swap Screens (NDS) | R2 |
+
+###### buttons
+| action  | steamdeck |
+| ------------- | ------------- |
+</details>
+
+<details><summary>3ds</summary>
+
+###### hotkeys
+
+| action  | steamdeck |
+| ------------- | ------------- |
+| Full Screen Toggle | L4 |
+| Layout Toggle | L5 |
+| Swap Screens | R4 |
+| Quit | Long Press R5 |
+| Save State | Left Trackpad Touch Menu |
+| Load State | Left Trackpad Touch Menu |
+| Fast Forward | Left Trackpad Touch Menu |
+| Pause | Left Trackpad Touch Menu |
+| Exit | Double Tap Left Trackpad Touch Menu |
+| Full Screen | Left Trackpad Touch Menu |
+| Swap Screens | Left Trackpad Touch Menu |
+| Change Screen Layout | Left Trackpad Touch Menu |
 
 ###### buttons
 | action  | steamdeck |
@@ -634,8 +634,6 @@
 | action  | steamdeck |
 | ------------- | ------------- |
 </details>
-
-## microsoft
 
 <details><summary>psvita</summary>
 
