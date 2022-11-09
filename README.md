@@ -216,7 +216,7 @@
 | Reset | A + B + X + Y + L1 + R1 |
 </details>
 
-<details><summary>console</summary>
+<details><summary>gamecube</summary>
 
 ###### hotkeys
 
