@@ -132,6 +132,14 @@
 ###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
+| A | B |
+| B | A |
+| Start | Start |
+| Select | Select |
+| D-Pad Up | D-Pad Up |
+| D-Pad Down | D-Pad Down |
+| D-Pad Left | D-Pad Left |
+| D-Pad Right | D-Pad Right |
 </details>
 
 <details><summary>snes</summary>
@@ -156,6 +164,18 @@
 ###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
+| A | B |
+| B | A |
+| X | Y |
+| Y | X |
+| Start | Start |
+| Select | Select |
+| L | L1 |
+| R | R1 |
+| D-Pad Up | D-Pad Up |
+| D-Pad Down | D-Pad Down |
+| D-Pad Left | D-Pad Left |
+| D-Pad Right | D-Pad Right |
 </details>
 
 <details><summary>n64</summary>
@@ -230,6 +250,26 @@
 ###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
+| A | B |
+| B | A |
+| X | Y |
+| Y | X |
+| L | L2 |
+| R | R2 |
+| Z | R1 |
+| Start | Start |
+| C-Stick Up | Right Analog Stick Up |
+| C-Stick Down | Right Analog Stick Down |
+| C-Stick Left | Right Analog Stick Left |
+| C-Stick Right | Right Analog Stick Right |
+| D-Pad Up | D-Pad Up |
+| D-Pad Down | D-Pad Down |
+| D-Pad Left | D-Pad Left |
+| D-Pad Right | D-Pad Right |
+| Analog Stick Up | Left Analog Stick Up |
+| Analog Stick Down | Left Analog Stick Down |
+| Analog Stick Left | Left Analog Stick Left |
+| Analog Stick Right | Left Analog Stick Right |
 </details>
 
 <details><summary>wii</summary>
@@ -310,6 +350,26 @@
 ###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
+| A | B |
+| B | A |
+| X | Y |
+| Y | X |
+| Start | Start |
+| Select | Select |
+| Home |  |
+| Power |  |
+| D-Pad Up | D-Pad Up |
+| D-Pad Down | D-Pad Down |
+| D-Pad Left | D-Pad Left |
+| D-Pad Right | D-Pad Right |
+| Left Analog Stick Up | Left Analog Stick Up |
+| Left Analog Stick Down | Left Analog Stick Down |
+| Left Analog Stick Left | Left Analog Stick Left |
+| Left Analog Stick Right | Left Analog Stick Right |
+| Right Analog Stick Up | Right Analog Stick Up |
+| Right Analog Stick Down | Right Analog Stick Down |
+| Right Analog Stick Left | Right Analog Stick Left |
+| Right Analog Stick Right | Right Analog Stick Right |
 </details>
 
 <details><summary>switch</summary>
@@ -331,6 +391,30 @@
 ###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
+| A | B |
+| B | A |
+| X | Y |
+| Y | X |
+| L | L1 |
+| R | R1 |
+| ZL | L2 |
+| ZR | R2 |
+| - |  |
+| + |  |
+| Capture |  |
+| Home |  |
+| D-Pad Up | D-Pad Up |
+| D-Pad Down | D-Pad Down |
+| D-Pad Left | D-Pad Left |
+| D-Pad Right | D-Pad Right |
+| Left Analog Stick Up | Left Analog Stick Up |
+| Left Analog Stick Down | Left Analog Stick Down |
+| Left Analog Stick Left | Left Analog Stick Left |
+| Left Analog Stick Right | Left Analog Stick Right |
+| Right Analog Stick Up | Right Analog Stick Up |
+| Right Analog Stick Down | Right Analog Stick Down |
+| Right Analog Stick Left | Right Analog Stick Left |
+| Right Analog Stick Right | Right Analog Stick Right |
 </details>
 
 <details><summary>gbc</summary>
@@ -355,6 +439,14 @@
 ###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
+| A | B |
+| B | A |
+| Start | Start |
+| Select | Select |
+| D-Pad Up | D-Pad Up |
+| D-Pad Down | D-Pad Down |
+| D-Pad Left | D-Pad Left |
+| D-Pad Right | D-Pad Right |
 </details>
 
 <details><summary>gba</summary>
@@ -379,6 +471,16 @@
 ###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
+| A | B |
+| B | A |
+| Start | Start |
+| Select | Select |
+| L | L1 |
+| R | R1 |
+| D-Pad Up | D-Pad Up |
+| D-Pad Down | D-Pad Down |
+| D-Pad Left | D-Pad Left |
+| D-Pad Right | D-Pad Right |
 </details>
 
 <details><summary>nds</summary>
@@ -399,11 +501,28 @@
 | Toggle Runahead | Select + D-Pad Up |
 | Toggle FPS Display | Select + X |
 | Screenshot | Select + B |
-| Swap Screens (NDS) | R2 |
+| Swap Screens | R2 |
 
 ###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
+| A | B |
+| B | A |
+| X | Y |
+| Y | X |
+| Start | Start |
+| Select | Select |
+| Home |  |
+| L | L1 |
+| R | R1 |
+| D-Pad Up | D-Pad Up |
+| D-Pad Down | D-Pad Down |
+| D-Pad Left | D-Pad Left |
+| D-Pad Right | D-Pad Right |
+| Analog Stick Up | Left Analog Stick Up |
+| Analog Stick Down | Left Analog Stick Down |
+| Analog Stick Left | Left Analog Stick Left |
+| Analog Stick Right | Left Analog Stick Right |
 </details>
 
 <details><summary>3ds</summary>
@@ -428,6 +547,27 @@
 ###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
+| A | B |
+| B | A |
+| X | Y |
+| Y | X |
+| Start | Start |
+| Select | Select |
+| Home |  |
+| L | L1 |
+| R | R1 |
+| D-Pad Up | D-Pad Up |
+| D-Pad Down | D-Pad Down |
+| D-Pad Left | D-Pad Left |
+| D-Pad Right | D-Pad Right |
+| Analog Stick Up | Left Analog Stick Up |
+| Analog Stick Down | Left Analog Stick Down |
+| Analog Stick Left | Left Analog Stick Left |
+| Analog Stick Right | Left Analog Stick Right |
+| C-Stick Up | Right Analog Stick Up |
+| C-Stick Down | Right Analog Stick Down |
+| C-Stick Left | Right Analog Stick Left |
+| C-Stick Right | Right Analog Stick Right |
 </details>
 
 ## sega
@@ -550,6 +690,21 @@
 ###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
+| A | A |
+| B | B |
+| X | X |
+| Y | Y |
+| LT | L2 |
+| RT | R2 |
+| Start | Start |
+| D-Pad Up | D-Pad Up |
+| D-Pad Down | D-Pad Down |
+| D-Pad Left | D-Pad Left |
+| D-Pad Right | D-Pad Right |
+| Analog Stick Up | Left Analog Stick Up |
+| Analog Stick Down | Left Analog Stick Down |
+| Analog Stick Left | Left Analog Stick Left |
+| Analog Stick Right | Left Analog Stick Right |
 </details>
 
 ## sony
@@ -580,6 +735,20 @@
 ###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
+| X | A |
+| Circle | B |
+| Square | X |
+| Triangle | Y |
+| Start | Start |
+| Select | Select |
+| L1 | L1 |
+| R1 | R1 |
+| L2 | L2 |
+| R2 | R2 |
+| D-Pad Up | D-Pad Up |
+| D-Pad Down | D-Pad Down |
+| D-Pad Left | D-Pad Left |
+| D-Pad Right | D-Pad Right |
 </details>
 
 <details><summary>ps2</summary>
@@ -606,6 +775,29 @@
 ###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
+| X | A |
+| Circle | B |
+| Square | X |
+| Triangle | Y |
+| Start | Start |
+| Select | Select |
+| Mode |  |
+| L1 | L1 |
+| R1 | R1 |
+| L2 | L2 |
+| R2 | R2 |
+| D-Pad Up | D-Pad Up |
+| D-Pad Down | D-Pad Down |
+| D-Pad Left | D-Pad Left |
+| D-Pad Right | D-Pad Right |
+| Left Analog Stick Up | Left Analog Stick Up |
+| Left Analog Stick Down | Left Analog Stick Down |
+| Left Analog Stick Left | Left Analog Stick Left |
+| Left Analog Stick Right | Left Analog Stick Right |
+| Right Analog Stick Up | Right Analog Stick Up |
+| Right Analog Stick Down | Right Analog Stick Down |
+| Right Analog Stick Left | Right Analog Stick Left |
+| Right Analog Stick Right | Right Analog Stick Right |
 </details>
 
 <details><summary>ps3</summary>
@@ -626,7 +818,29 @@
 
 ###### buttons
 | action  | steamdeck |
-| ------------- | ------------- |
+| ------------- | ------------- || X | A |
+| Circle | B |
+| Square | X |
+| Triangle | Y |
+| Start | Start |
+| Select | Select |
+| Mode |  |
+| L1 | L1 |
+| R1 | R1 |
+| L2 | L2 |
+| R2 | R2 |
+| D-Pad Up | D-Pad Up |
+| D-Pad Down | D-Pad Down |
+| D-Pad Left | D-Pad Left |
+| D-Pad Right | D-Pad Right |
+| Left Analog Stick Up | Left Analog Stick Up |
+| Left Analog Stick Down | Left Analog Stick Down |
+| Left Analog Stick Left | Left Analog Stick Left |
+| Left Analog Stick Right | Left Analog Stick Right |
+| Right Analog Stick Up | Right Analog Stick Up |
+| Right Analog Stick Down | Right Analog Stick Down |
+| Right Analog Stick Left | Right Analog Stick Left |
+| Right Analog Stick Right | Right Analog Stick Right |
 </details>
 
 <details><summary>psp</summary>
@@ -651,6 +865,18 @@
 ###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
+| X | A |
+| Circle | B |
+| Square | X |
+| Triangle | Y |
+| Start | Start |
+| Select | Select |
+| L | L1 |
+| R | R1 |
+| D-Pad Up | D-Pad Up |
+| D-Pad Down | D-Pad Down |
+| D-Pad Left | D-Pad Left |
+| D-Pad Right | D-Pad Right |
 </details>
 
 <details><summary>psvita</summary>
@@ -699,6 +925,28 @@
 ###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
+| A | A |
+| B | B |
+| X | X |
+| Y | Y |
+| Start | Start |
+| Back | Select |
+| L | L1 |
+| R | R1 |
+| Black |  |
+| White |  |
+| D-Pad Up | D-Pad Up |
+| D-Pad Down | D-Pad Down |
+| D-Pad Left | D-Pad Left |
+| D-Pad Right | D-Pad Right |
+| Left Analog Stick Up | Left Analog Stick Up |
+| Left Analog Stick Down | Left Analog Stick Down |
+| Left Analog Stick Left | Left Analog Stick Left |
+| Left Analog Stick Right | Left Analog Stick Right |
+| Right Analog Stick Up | Right Analog Stick Up |
+| Right Analog Stick Down | Right Analog Stick Down |
+| Right Analog Stick Left | Right Analog Stick Left |
+| Right Analog Stick Right | Right Analog Stick Right |
 </details>
 
 ## snk
