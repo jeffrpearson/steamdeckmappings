@@ -890,6 +890,27 @@
 ###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
+  | X | A |
+| Circle | B |
+| Square | X |
+| Triangle | Y |
+| Start | Start |
+| Select | Select |
+| L | L1 |
+| R | R1 |
+| Home |  |
+| D-Pad Up | D-Pad Up |
+| D-Pad Down | D-Pad Down |
+| D-Pad Left | D-Pad Left |
+| D-Pad Right | D-Pad Right |
+| Left Analog Stick Up | Left Analog Stick Up |
+| Left Analog Stick Down | Left Analog Stick Down |
+| Left Analog Stick Left | Left Analog Stick Left |
+| Left Analog Stick Right | Left Analog Stick Right |
+| Right Analog Stick Up | Right Analog Stick Up |
+| Right Analog Stick Down | Right Analog Stick Down |
+| Right Analog Stick Left | Right Analog Stick Left |
+| Right Analog Stick Right | Right Analog Stick Right |
 </details>
 
 ## arcade
