@@ -180,6 +180,24 @@
 ###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
+  | A | A |
+| B | X |
+| Start | Start |
+| Up C | Right Analog Stick Up |
+| Down C | Right Analog Stick Down |
+| Left C | Right Analog Stick Left |
+| Right C | Right Analog Stick Right |
+| D-Pad Up | D-Pad Up |
+| D-Pad Down | D-Pad Down |
+| D-Pad Left | D-Pad Left |
+| D-Pad Right | D-Pad Right |
+| L | L |
+| R | R |
+| Z | LT |
+| Analog Stick Up | Left Analog Stick Up |
+| Analog Stick Down | Left Analog Stick Down |
+| Analog Stick Left | Left Analog Stick Left |
+| Analog Stick Right | Left Analog Stick Right |
 </details>
 
 <details><summary>gamecube</summary>
