@@ -30,6 +30,11 @@
 ###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
+  | B | B |
+| Analog Stick Up | Left Analog Stick Up |
+| Analog Stick Down | Left Analog Stick Down |
+| Analog Stick Left | Left Analog Stick Left |
+| Analog Stick Right | Left Analog Stick Right |
 </details>
 
 <details><summary>atari5200</summary>
@@ -38,7 +43,18 @@
 
 | action  | steamdeck |
 | ------------- | ------------- |
-| N/A | N/A |
+| Menu  | L3 + R3  |
+| Exit  | Select + Start  |
+| Pause/Unpause | Select + A |
+| Fast Forward | Select + R2 |
+| Rewind | Select + L1 |
+| Save State | Select + R1 |
+| Load State | Select + L1 |
+| Next Save Slot | Select + D-Pad Right |
+| Previous Save Slot | Select + D-Pad Left |
+| Toggle Runahead | Select + D-Pad Up |
+| Toggle FPS Display | Select + X |
+| Screenshot | Select + B |
 
 ###### buttons
 | action  | steamdeck |
@@ -51,11 +67,28 @@
 
 | action  | steamdeck |
 | ------------- | ------------- |
-| N/A | N/A |
+| Menu  | L3 + R3  |
+| Exit  | Select + Start  |
+| Pause/Unpause | Select + A |
+| Fast Forward | Select + R2 |
+| Rewind | Select + L1 |
+| Save State | Select + R1 |
+| Load State | Select + L1 |
+| Next Save Slot | Select + D-Pad Right |
+| Previous Save Slot | Select + D-Pad Left |
+| Toggle Runahead | Select + D-Pad Up |
+| Toggle FPS Display | Select + X |
+| Screenshot | Select + B |
 
 ###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
+  | 1 | A |
+| 2 | B |
+| D-Pad Up | D-Pad Up |
+| D-Pad Down | D-Pad Down |
+| D-Pad Left | D-Pad Left |
+| D-Pad Right | D-Pad Right |
 </details>
 
 <details><summary>atarijaguar</summary>
@@ -64,11 +97,46 @@
 
 | action  | steamdeck |
 | ------------- | ------------- |
-| N/A | N/A |
+| Menu  | L3 + R3  |
+| Exit  | Select + Start  |
+| Pause/Unpause | Select + A |
+| Fast Forward | Select + R2 |
+| Rewind | Select + L1 |
+| Save State | Select + R1 |
+| Load State | Select + L1 |
+| Next Save Slot | Select + D-Pad Right |
+| Previous Save Slot | Select + D-Pad Left |
+| Toggle Runahead | Select + D-Pad Up |
+| Toggle FPS Display | Select + X |
+| Screenshot | Select + B |
 
 ###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
+  | C |  |
+| B |  |
+| A |  |
+| Z |  |
+| Y |  |
+| Z |  |
+| Pause | Start |
+| Option | Select |
+| D-Pad Up | D-Pad Up |
+| D-Pad Down | D-Pad Down |
+| D-Pad Left | D-Pad Left |
+| D-Pad Right | D-Pad Right |
+| 1 |  |
+| 2 |  |
+| 3 |  |
+| 4 |  |
+| 5 |  |
+| 6 |  |
+| 7 |  |
+| 8 |  |
+| 9 |  |
+| * |  |
+| 0 |  |
+| # |  |
 </details>
 
 <details><summary>atarilynx</summary>
@@ -93,6 +161,18 @@
 ###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
+  | B | A |
+| A | B |
+| D-Pad Up | D-Pad Up |
+| D-Pad Down | D-Pad Down |
+| D-Pad Left | D-Pad Left |
+| D-Pad Right | D-Pad Right |
+| On |  |
+| Off |  |
+| Option 1 |  |
+| Restart |  |
+| Flip |  |
+| Option 2 |  |
 </details>
 
 <details><summary>atarist</summary>
@@ -101,11 +181,27 @@
 
 | action  | steamdeck |
 | ------------- | ------------- |
-| N/A | N/A |
+| Menu  | L3 + R3  |
+| Exit  | Select + Start  |
+| Pause/Unpause | Select + A |
+| Fast Forward | Select + R2 |
+| Rewind | Select + L1 |
+| Save State | Select + R1 |
+| Load State | Select + L1 |
+| Next Save Slot | Select + D-Pad Right |
+| Previous Save Slot | Select + D-Pad Left |
+| Toggle Runahead | Select + D-Pad Up |
+| Toggle FPS Display | Select + X |
+| Screenshot | Select + B |
 
 ###### buttons
 | action  | steamdeck |
 | ------------- | ------------- |
+  | B | B |
+| Analog Stick Up | Left Analog Stick Up |
+| Analog Stick Down | Left Analog Stick Down |
+| Analog Stick Left | Left Analog Stick Left |
+| Analog Stick Right | Left Analog Stick Right |
 </details>
 
 ## nintendo
